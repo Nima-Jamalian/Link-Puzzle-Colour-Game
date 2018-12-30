@@ -1,0 +1,1 @@
+/Users/nimajamalian/Library/Developer/Xcode/DerivedData/Mini_Project_test-dyxggdtlezhagebqfrndojujwedx/Build/Intermediates.noindex/ArchiveIntermediates/Mini_Project_test Debug/InstallationBuildProductsLocation/Applications/Mini_Project_testDebug.app
